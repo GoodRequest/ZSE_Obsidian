@@ -1,0 +1,7 @@
+[[Post.Authorization.ts]]
+[[Post.Transactions.ts]]
+[[Post.PrepaidCredit.ts]]
+[[Post.Transactions.ts]]
+[[Post.User.ts]]
+[[Put.User.ts]]
+[[Delete.Invoice.ts]]

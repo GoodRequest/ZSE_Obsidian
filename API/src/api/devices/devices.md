@@ -1,0 +1,5 @@
+[[Get.Devices.ts]]
+[[Post.AuthenticateDevice.ts]]
+[[Delete.Device.ts]]
+[[Post.SubscribeNotification.ts]]
+[[Delete.UnsubscribeNotification.ts]]

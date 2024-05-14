@@ -1,0 +1,7 @@
+[[Get.Profile.ts]]
+[[Put.Profile.ts]]
+[[Post.Rfid.ts]]
+[[API/src/api/profile/Post.Program.ts]]
+[[Post.ResetPassword.ts]]
+[[Post.ForgotPassword.ts]]
+[[Post.DisableAccount.ts]]
