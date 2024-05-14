@@ -1,2 +1,2 @@
 [[API/src/api/api]]
-[[services]]
+[[services_external]]
